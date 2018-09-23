@@ -1,0 +1,80 @@
+﻿  ConsoleApplication2.cpp
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(7): error C2146: syntax error: missing ';' before identifier 'one'
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(8): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(8): error C2086: 'int string': redefinition
+  c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(7): note: see declaration of 'string'
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(8): error C2146: syntax error: missing ';' before identifier 'two'
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(9): error C2086: 'int string': redefinition
+  c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(7): note: see declaration of 'string'
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(9): error C2146: syntax error: missing ';' before identifier 'three'
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(10): error C2086: 'int string': redefinition
+  c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(7): note: see declaration of 'string'
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(10): error C2146: syntax error: missing ';' before identifier 'four'
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(11): error C2086: 'int string': redefinition
+  c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(7): note: see declaration of 'string'
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(11): error C2146: syntax error: missing ';' before identifier 'five'
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(12): error C2086: 'int string': redefinition
+  c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(7): note: see declaration of 'string'
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(12): error C2146: syntax error: missing ';' before identifier 'six'
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(13): error C2086: 'int string': redefinition
+  c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(7): note: see declaration of 'string'
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(13): error C2146: syntax error: missing ';' before identifier 'seven'
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(14): error C2086: 'int string': redefinition
+  c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(7): note: see declaration of 'string'
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(14): error C2146: syntax error: missing ';' before identifier 'eight'
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(15): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(15): error C2086: 'int string': redefinition
+  c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(7): note: see declaration of 'string'
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(15): error C2146: syntax error: missing ';' before identifier 'nine'
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(16): error C2086: 'int string': redefinition
+  c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(7): note: see declaration of 'string'
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(16): error C2146: syntax error: missing ';' before identifier 'xoro'
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(17): error C2086: 'int string': redefinition
+  c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(7): note: see declaration of 'string'
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(17): error C2146: syntax error: missing ';' before identifier 'aixoro'
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(22): error C2065: 'five': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(23): error C2065: 'five': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(23): error C2065: 'aixoro': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(29): error C2065: 'one': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(30): error C2065: 'two': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(31): error C2065: 'three': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(32): error C2065: 'four': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(33): error C2065: 'five': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(34): error C2065: 'six': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(35): error C2065: 'seven': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(36): error C2065: 'eight': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(37): error C2065: 'nine': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(38): error C2065: 'xoro': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(39): error C2065: 'aixoro': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(40): error C2065: 'cout': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(40): error C2065: 'endl': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(41): error C2065: 'cin': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(41): error C2065: 'xoro': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(42): error C2065: 'xoro': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(43): error C2065: 'aixoro': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(45): error C2065: 'xoro': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(46): error C2065: 'aixoro': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(48): error C2065: 'cout': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(48): error C2065: 'one': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(48): error C2065: 'two': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(48): error C2065: 'three': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(48): error C2065: 'endl': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(49): error C2065: 'cout': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(49): error C2065: 'four': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(49): error C2065: 'five': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(49): error C2065: 'six': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(49): error C2065: 'endl': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(50): error C2065: 'cout': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(50): error C2065: 'seven': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(50): error C2065: 'eight': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(50): error C2065: 'nine': undeclared identifier
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(50): error C2065: 'endl': undeclared identifier

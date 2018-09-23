@@ -1,0 +1,3 @@
+﻿  ConsoleApplication2.cpp
+c:\users\north\documents\owens folder\consoleapplication2\consoleapplication2\consoleapplication2.cpp(30): warning C4101: 'x': unreferenced local variable
+  ConsoleApplication2.vcxproj -> C:\Users\north\Documents\owens folder\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
